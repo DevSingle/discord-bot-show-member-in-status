@@ -15,4 +15,5 @@ async def on_ready():
         type = discord.ActivityType.watching,
         name = f'{members} members'
     ))
+#  your token
 client.run("your token")
